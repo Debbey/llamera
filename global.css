@@ -1,0 +1,35 @@
+*{
+  padding: 0%;
+  margin: auto;
+}
+
+body {
+  background: url(https://media.tenor.com/3CyYYCcCn-cAAAAd/galaxy-space.gif);
+}
+
+h1 {
+  font-size: 60px;
+  font-style: italic;
+  margin-bottom: 10px;
+  color: white;
+}
+
+p {
+  font-size: 35px;
+  font-style: oblique;
+  margin-bottom: 20px;
+  color: azure;
+}
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin: 5px;
+  border-radius: 5px;
+}
+button:hover {
+  background-color: #0056b3;
+}
